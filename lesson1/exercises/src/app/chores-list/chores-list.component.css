@@ -1,0 +1,16 @@
+/* text color NOT the same as movie list, but also cannot be black DONE */
+/* Underline heading DONE */
+/* Italicize list items DONE */
+/* Use larger font DONE */
+h3 {
+    color: #cc7598;
+    font-size: larger;
+    text-decoration: underline;
+
+}
+
+li{
+    color:#cc7598;
+    font-size: larger;
+    font-style: italic;
+}

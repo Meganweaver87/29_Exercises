@@ -1,0 +1,13 @@
+/* heading and list NOT black , pick any other color use movies class DONE */
+/* movie list heading centered DONE */ 
+/* make the font larger DONE */ 
+.movies {
+    color: #ba5e83;
+    font-size: larger;
+
+}
+
+h3 {
+    color: #ba5e83;
+    text-align: center;
+}
